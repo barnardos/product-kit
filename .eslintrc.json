@@ -1,0 +1,11 @@
+{
+  "extends": ["@barnardos/eslint-config-barnardos"],
+  "overrides": [
+    {
+      "files": ["src/pages/**/*.js"],
+      "rules": {
+        "react/display-name": "off"
+      }
+    }
+  ]
+}

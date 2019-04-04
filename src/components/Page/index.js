@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 import React from "react";
 
 const Page = ({ children }) => (
-  <Site description="Example product">
+  <Site description="Product kit">
     <Layout>
       <SkipLink />
       <Header title="Go to the homepage" />

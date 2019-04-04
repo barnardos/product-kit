@@ -1,4 +1,6 @@
-# Barnardo's example product
+# Barnardo's product kit
+
+A foundation to start developing your product.
 
 Following the standards and components of the [Design System](https://design-system.barnardos.org.uk/).
 

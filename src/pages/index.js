@@ -18,8 +18,8 @@ export default () => (
   <Page>
     <Main>
       <Hero>
-        <Title>Barnardo’s example product</Title>
-        <Lede>A foundation for your product.</Lede>
+        <Title>Barnardo’s product kit</Title>
+        <Lede>A foundation to start developing your product.</Lede>
       </Hero>
       <Heading>Getting started</Heading>
       <Paragraph>

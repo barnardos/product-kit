@@ -1,22 +1,17 @@
 # Barnardo's product kit
 
-A foundation to start developing your product.
-
-Following the standards and components of the [Design System](https://design-system.barnardos.org.uk/).
+Design, prototype and build your product.
 
 ## Getting started
 
-First, install [Node.js](https://nodejs.org/en/).
+You'll need to have [Node.js](https://nodejs.org/en/) installed.
+
+First, [download the kit](https://github.com/barnardos/product-kit/archive/master.zip).
 
 Then run these commands:
 
 - `npm install` - install all dependencies
 - `npm start` - start the development server
-
-Before creating a PR you should run these commands:
-
-- `npm run format`
-- `npm run test`
 
 Use `npm run` to see a list of all the other available commands.
 
@@ -26,9 +21,3 @@ The providers are:
 
 - [CircleCI](https://circleci.com) - continuous integration
 - [Netlify](https://www.netlify.com) - continuous deployment
-
-### Netlify
-
-Deployment URLs:
-
-- [Site](https://barnardos-example-product.netlify.com)

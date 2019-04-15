@@ -1,27 +1,23 @@
 import {
   BulletedList,
   Hero,
-  Lede,
   Link,
   ListItem,
   Main,
   Paragraph,
-  SignpostLink,
-  Title
+  SignpostLink
 } from "@barnardos/components";
 import React from "react";
 
 import Page from "../components/Page";
 
 export default () => (
-  <Page>
+  <Page title="Home">
     <Main>
-      <Hero>
-        <Title>Barnardo’s Product Kit</Title>
-        <Lede>
-          Design, prototype and build your product using page templates.
-        </Lede>
-      </Hero>
+      <Hero
+        title="Barnardo’s Product Kit"
+        lede="Design, prototype and build your product using page templates."
+      />
       <Paragraph>
         The Product Kit uses the{" "}
         <Link href="https://design-system.barnardos.org.uk/">

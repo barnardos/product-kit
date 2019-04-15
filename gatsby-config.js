@@ -3,7 +3,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-compile-es6-packages`,
       options: {
-        modules: [`@barnardos/components`]
+        modules: [`@barnardos/components`, `@sindresorhus/slugify`]
       }
     },
     `gatsby-plugin-postcss`,

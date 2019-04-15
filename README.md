@@ -1,4 +1,4 @@
-# Barnardo's product kit
+# Barnardo's Product Kit
 
 Design, prototype and build your product.
 

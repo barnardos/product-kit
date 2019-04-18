@@ -19,9 +19,9 @@
   "license": "MIT",
   "devDependencies": {
     "@barnardos/eslint-config-barnardos": "^0.3.0",
-    "@barnardos/stylelint-config-barnardos": "^0.5.3",
+    "@barnardos/stylelint-config-barnardos": "^0.5.4",
     "eslint": "^5.16.0",
-    "gatsby": "^2.3.22",
+    "gatsby": "^2.3.24",
     "gatsby-plugin-compile-es6-packages": "^1.1.0",
     "gatsby-plugin-postcss": "^2.0.7",
     "gatsby-plugin-react-helmet": "^3.0.12",
@@ -31,10 +31,10 @@
     "postcss-preset-env": "^6.6.0",
     "postcss-reporter": "^6.0.1",
     "prettier": "^1.17.0",
-    "stylelint": "^10.0.0"
+    "stylelint": "^10.0.1"
   },
   "dependencies": {
-    "@barnardos/components": "^0.6.0",
+    "@barnardos/components": "^1.0.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-helmet": "^5.2.0"
